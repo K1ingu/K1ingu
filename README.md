@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Adam Rydza
+- 👀 I’m interested in coding, cycling, air soft gun
+- 🌱 I’m currently learning JavaScript & Wordpress
+- 📫 How to reach me biznes@adamrydza.dev or discord HyperVlad#9982
